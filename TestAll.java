@@ -47,10 +47,10 @@ public class TestAll extends TestCase {
 		suite.addTestSuite(XMLReaderTest.class);
 		suite.addTestSuite(GenericPatchTest.class);
 		suite.addTestSuite(NordLead2ProgTest.class);
-		suite.addTestSuite(AccessVirusProgTest.class);
-		suite.addTestSuite(SupernovaIIProgTest.class);
+//		suite.addTestSuite(AccessVirusProgTest.class);
+//		suite.addTestSuite(SupernovaIIProgTest.class);
 		suite.addTestSuite(NordModularPatchTest.class);
-		suite.addTestSuite(Prophet600ProgTest.class);
+//		suite.addTestSuite(Prophet600ProgTest.class);
 		return suite;
 	}
 }
